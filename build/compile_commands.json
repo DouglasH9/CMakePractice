@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/build/src/my_lib",
+  "command": "/usr/bin/g++  -I/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/src/my_lib/. -I/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/build/configured_files/include -g -std=c++17 -o CMakeFiles/Library.dir/my_lib.cc.o -c /home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/src/my_lib/my_lib.cc",
+  "file": "/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/src/my_lib/my_lib.cc"
+},
+{
+  "directory": "/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/build/app",
+  "command": "/usr/bin/g++  -I/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/src/my_lib/. -I/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/build/configured_files/include -g -std=c++17 -o CMakeFiles/Executable.dir/main.cc.o -c /home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/app/main.cc",
+  "file": "/home/fdromanowski/CMakeLearn/UdemyCmake/2_CMake/05_ConfigureFile/app/main.cc"
+}
+]
